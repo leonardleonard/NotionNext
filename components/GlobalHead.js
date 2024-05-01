@@ -118,6 +118,9 @@ const GlobalHead = props => {
           />
         </>
       )}
+
+      <script defer data-domain="qqplu.com" src="https://plausible.io/js/script.js"></script>
+
       {children}
     </Head>
   )

@@ -120,7 +120,8 @@ const GlobalHead = props => {
       )}
 
       <script defer data-domain="qqplu.com" src="https://plausible.io/js/script.js"></script>
-
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6505249285855987"
+     crossorigin="anonymous"></script>
       {children}
     </Head>
   )
